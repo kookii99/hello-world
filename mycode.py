@@ -1,2 +1,2 @@
 def mycode():
-    pass
+    print( 'hello, mycode' )
